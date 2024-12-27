@@ -1,4 +1,8 @@
 
+https://github.com/fernandaservio/prompts-for-podcast-generate-by-ia/blob/main/ElevenLabs_2024-12-27T18_50_58_Rachel_pre_s50_sb100_se0_b_m2.mp3
+
+
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
